@@ -41,37 +41,6 @@ while True:
     else:
         print("invalid input")    
         
-    next_calculation = print("Let us do another calculation? (yes/no): ")    
+    next_calculation = input("Let us do another calculation? (yes/no): ")  
     if next_calculation == "no":  break
            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
